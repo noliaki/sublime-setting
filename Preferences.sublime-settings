@@ -9,12 +9,12 @@
 	[
 		"Vintage"
 	],
+	"jsdocs_extend_double_slash": false,
 	"open_files_in_new_window": false,
 	"scroll_past_end": true,
 	"scroll_speed": 0,
 	"tab_size": 2,
 	"theme": "Moka Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"jsdocs_extend_double_slash": false
+	"word_wrap": false
 }
